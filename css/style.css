@@ -274,6 +274,11 @@ body{
 	float: right;
 	margin-top: 0.8em;
 }
+.bottom-grid-right1{
+	width: 44%;
+	float: right;
+	margin-top: 0.8em;
+}
 .bottom-grid-right a{
 	color: #fff;
 	font-family: 'Open Sans', sans-serif;
